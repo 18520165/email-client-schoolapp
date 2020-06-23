@@ -1,2 +1,2 @@
 # socket-school-app
-#hello chào mừng các bạn đã đến với group của nhân
+# Hello chào mừng các bạn đã đến với những project của Nhân
